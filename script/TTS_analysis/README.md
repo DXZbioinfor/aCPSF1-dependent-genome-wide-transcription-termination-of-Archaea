@@ -62,4 +62,4 @@ The output file is:
 ```
  metapicture.pdf
 ```
-![image](https://github.com/DXZbioinfor/test/blob/master/result/TTS_result/metapicture.png)
+![image](https://github.com/DXZbioinfor/aCPSF1-dependent-genome-wide-transcription-termination-of-Archaea/blob/master/result/TTS_result/metapicture.png)
