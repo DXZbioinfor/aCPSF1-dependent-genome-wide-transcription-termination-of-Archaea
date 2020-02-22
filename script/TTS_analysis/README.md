@@ -50,7 +50,7 @@ TES_information.csv
 ```
 
 
-Step4. Plot
+## Step4. Plot
 Plot the abundance in 20bp around primary TTS in wild and mutant type
 
 Run by:
